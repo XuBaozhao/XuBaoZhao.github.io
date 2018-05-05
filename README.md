@@ -1,9 +1,9 @@
 ## Welcome to XuBaozhao's github blog
 
 Hello! Every one! Welcome to my github blog!<br />
-* Name:XuBaozhao
-* Sex:man
-* Age:20
+* Name：XuBaozhao
+* Sex：man
+* Age：20
 * Nationality：China
 * City：QingDao
 * Unniversity：ShanDong unniversity of Science and Tecnology
