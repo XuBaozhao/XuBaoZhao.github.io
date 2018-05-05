@@ -32,16 +32,16 @@ Hello! Every one! Welcome to my github blog!<br />
 	</table>
 </div>
 
+### Contact me
 
+The ways to contact me:<br />
+* QQ:782368075
+* Email:782368075@qq.com<br />
+* CSDN:[沐雨金鳞的博客](https://blog.csdn.net/qq_38262266)
 
 ### My favorite actress 
 
 ![baidu-images](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=012d5f65c68065386fe7ac41f6b4ca21/91ef76c6a7efce1b0f2812e1a351f3deb48f659e.jpg "baidu")  
 
-### Contact me
 
-The ways to contact me:<br />
-QQ:782368075<br />
-Email:782368075@qq.com<br />
-[我的CSDN博客](https://blog.csdn.net/qq_38262266)
 
