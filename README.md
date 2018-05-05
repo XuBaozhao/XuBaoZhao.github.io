@@ -38,6 +38,7 @@ The ways to contact me:<br />
 * QQ:782368075
 * Email:782368075@qq.com<br />
 * CSDN:[沐雨金鳞的博客](https://blog.csdn.net/qq_38262266)
+* [域名未备案，哈哈](http://39.107.226.88/xbz.html)
 
 ### My favorite actress 
 
