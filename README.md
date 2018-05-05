@@ -7,7 +7,7 @@ Hello! Every one! Welcome to my github blog!<br />
 * Nationality：China
 * City：QingDao
 * Unniversity：ShanDong unniversity of Science and Tecnology
-* interests：Play baskeball and singing.(about 200 songs on 全民K歌)<br /><br />
+* interests：Play baskeball and singing.(about 200 songs on 全民K歌)<br />
 
 <div>
         <table border="0">
