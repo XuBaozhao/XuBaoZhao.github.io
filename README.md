@@ -1,31 +1,47 @@
 ## Welcome to XuBaozhao's github blog
 
-Hello! Every one! Welcome to my github blog!
-Let me introduce myself:
-My name is XuBaozhao.
-I am 20 years old now.
-I am studying in ShanDong unniversity of Science and Tecnology majoring in software engeering.
-My favorite sport is playing basketball and I also love singing.(about 200 songs on 全民K歌)
+Hello! Every one! Welcome to my github blog!<br />
+* Name:XuBaozhao
+* Sex:man
+* Age:20
+* Nationality：China
+* City：QingDao
+* Unniversity：ShanDong unniversity of Science and Tecnology
+* interests：Play baskeball and singing.(about 200 songs on 全民K歌)<br /><br />
 
-### Hello world!
+<div>
+        <table border="0">
+	  <tr>
+	    <th>姓名</th>
+	    <th>性别</th>
+      <th>年龄</th>
+      <th>家乡</th>
+      <th>主修专业</th>
+      <th>本科学校</th>
+      <th>目标研究生学校</th>
+	  </tr>
+	  <tr>
+	    <td>许宝钊</td>
+	    <td>男</td>
+      <td>20</td>
+      <td>山东省菏泽市</td>
+      <td>软件工程</td>
+      <td>山东科技大学</td>
+      <td>北京邮电大学</td>
+	  </tr>
+	</table>
+</div>
 
-
-```markdown
-#include<stdio.h>
-  int main()
-  {
-     printf("Hello world!");
-  }
-```
 
 
 ### My favorite actress 
 
-[Image](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%9B%96%E5%B0%94%E5%8A%A0%E6%9C%B5&step_word=&hs=0&pn=14&spn=0&di=6129681360&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=646828470%2C4258873089&os=1992940843%2C914863544&simid=0%2C0&adpicid=0&lpn=0&ln=1954&fr=&fmq=1525512712674_R&fm=rs2&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E7%A5%9E%E5%A5%87%E5%A5%B3%E4%BE%A0&objurl=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201605%2F19%2F20160519182828_BfA4a.thumb.700_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dc00naln8d&gsm=0&rpstart=0&rpnum=0&islist=&querylist=)
+![baidu-images](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=012d5f65c68065386fe7ac41f6b4ca21/91ef76c6a7efce1b0f2812e1a351f3deb48f659e.jpg "baidu")  
 
 ### Contact me
 
-The ways to contact me:
-QQ:782368075
-Email:782368075@qq.com
-CSDN:[Link](https://blog.csdn.net/qq_38262266)
+The ways to contact me:<br />
+QQ:782368075<br />
+Email:782368075@qq.com<br />
+[我的CSDN博客](https://blog.csdn.net/qq_38262266)
+
