@@ -1,4 +1,4 @@
-## Welcome to XuBaozhao's github blog
+## Welcome to XuBaozhao's github blog    ![baidu-images](https://png.icons8.com/color/2x/happy.png "baidu")  
 
 Hello! Every one! Welcome to my github blog!<br />
 * Name：XuBaozhao
