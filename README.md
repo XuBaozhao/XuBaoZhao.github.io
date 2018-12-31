@@ -21,7 +21,7 @@ Hello! Every one! Welcome to my github blog!<br />
       <th>目标研究生学校</th>
 	  </tr>
 	  <tr>
-	    <td>许宝钊</td>
+	    <td>Number_23</td>
 	    <td>男</td>
       <td>20</td>
       <td>山东省菏泽市</td>
