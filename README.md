@@ -1,4 +1,4 @@
-# Welcome to XuBaozhao's github blog    ![baidu-images](https://png.icons8.com/color/2x/happy.png "baidu")  
+## Welcome to XuBaozhao's github blog    ![baidu-images](https://png.icons8.com/color/2x/happy.png "baidu")  
 
 Hello! Every one! Welcome to my github blog!<br />
 * Name：XuBaozhao
@@ -32,7 +32,7 @@ Hello! Every one! Welcome to my github blog!<br />
 	</table>
 </div>
 
-# Contact me
+### Contact me
 
 The ways to contact me:<br />
 * QQ:782368075
@@ -40,7 +40,7 @@ The ways to contact me:<br />
 * CSDN:[沐雨金鳞的博客](https://blog.csdn.net/qq_38262266)
 * [域名未备案，哈哈](http://39.107.226.88/xbz.html)
 
-# My Univercity
+### My Univercity
 
 ![baidu-images](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=555438205,1670604453&fm=179&app=42&f=JPEG "baidu") 
 
