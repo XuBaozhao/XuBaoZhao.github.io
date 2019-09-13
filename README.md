@@ -3,10 +3,10 @@
 Hello! Every one! Welcome to my github blog!<br />
 * Name：XuBaozhao
 * Sex：man
-* Age：20
+* Age：21
 * Nationality：China
-* City：QingDao
-* Unniversity：ShanDong unniversity of Science and Tecnology
+* City：BeiJing
+* Unniversity：Beijing University of Posts and Telecommunications
 * interests：Play baskeball and singing.(about 200 songs on 全民K歌)<br />
 
 <div>
@@ -18,7 +18,7 @@ Hello! Every one! Welcome to my github blog!<br />
       <th>家乡</th>
       <th>主修专业</th>
       <th>本科学校</th>
-      <th>目标研究生学校</th>
+      <th>研究生学校</th>
 	  </tr>
 	  <tr>
 	    <td>Number_23</td>
@@ -40,9 +40,10 @@ The ways to contact me:<br />
 * CSDN:[沐雨金鳞的博客](https://blog.csdn.net/qq_38262266)
 * [域名未备案，哈哈](http://39.107.226.88/xbz.html)
 
-### My favorite actress 
+### My Univercity
 
-![baidu-images](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=012d5f65c68065386fe7ac41f6b4ca21/91ef76c6a7efce1b0f2812e1a351f3deb48f659e.jpg "baidu")  
+![baidu-images](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%8C%97%E4%BA%AC%E9%83%B5%E9%9B%BB%E5%A4%A7%E5%AD%B8&step_word=&hs=0&pn=0&spn=0&di=4290&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=222133032%2C2308059945&os=4214452652%2C1939631799&simid=3495671505%2C337176357&adpicid=0&lpn=0&ln=1076&fr=&fmq=1568337229197_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fuploads.oh100.com%2Fallimg%2F1710%2F32-1G014150J2.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B5i8aa_z%26e3Bv54AzdH3F1wx7jAzdH3Fba90md_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined
+ "baidu")  
 
 
 
